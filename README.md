@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Prateek</h1>
-<h3 align="center">Full Stack Developer | AI Builder | Problem Solver</h3>
+<h3 align="center">Full Stack AI Developer | AI Builder | Problem Solver</h3>
 
 <p align="center">
 Building scalable web apps, AI tools, and developer-focused solutions.
